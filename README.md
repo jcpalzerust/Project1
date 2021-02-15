@@ -15,3 +15,6 @@ Concentration can be played with regular playing cards or with special themed ca
 
 Vision Statement
 This product is forchildren and adults who wish to play a game to keep their memory sharp.  The Online Concentration Game is an online card game that is a great way to sharpen memories while having fun. Unlike other online card games, our product is very easy to use at a very affordable price. 
+
+Online Concentration Game Features:	
+This product has all the great aspects of playing the card game Concentration, but with the convenience of being able to play on your computer or mobile device.  You can play with friends online, or by yourself against an imaginary person (the computer).  You can adjust the skill level of the computer, track your wins and losses, as well as keep track of your best performances.  Challenge your friends today!
