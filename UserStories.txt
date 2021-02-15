@@ -1,0 +1,21 @@
+Online Concentration Game User Stories:
+
+1.  As a school age child learning numbers, I need to play a card game which I match numbers so that I can learn the concepts of numbers and matching.
+
+2.  As a school age child learning memeory skills, I need to play a card game which I match numbers so that I can improve my memory skills.
+
+3.  As an adult, I need a game that will keep my memory sharp so that my memory skills do not fade.
+
+4.  As an adult, I need a memory game that is online, so that I can play it while maintaining physical distance during a pandemic.
+
+5. As an adult, I want a memory game that keeps track of the statistics of my games played, so that I can be sure that I am playing regularly, and improving.
+
+6.  As an adult, I want a memry game that I can opt to play by myself, against a computer, so that if no one is availble to play with me, I can still play.
+
+7.  As an adult, I want a memory game that can be played online with friends and strangers, so that I feel I am connecting with people regularly.
+
+8. As an adult, I want a memory game that can be played on my mobile device, as well as my computer, so that I have flexibility for playing at home or away.
+
+9.  As an adult, I need a memory game that is inexpensive, so that I find it affordable.
+
+10.  As an adult, I need a a memory game that statistics can be shared with authorized individuals, so that my doctor can monitor the status of my memory skills.
