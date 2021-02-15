@@ -11,3 +11,7 @@ Each turn, two cards are flipped over.  If the cards do not match, they are both
 With a regular deck of cards, the pair is considered the card with the same color and number (so the ace of hearts matches the ace of diamonds).
 
 Concentration can be played with regular playing cards or with special themed cards.  It can be played by 1, 2, 3 or 4 people.  More than 4 people can be divided into teams.   
+
+
+Vision Statement
+This product is forchildren and adults who wish to play a game to keep their memory sharp.  The Online Concentration Game is an online card game that is a great way to sharpen memories while having fun. Unlike other online card games, our product is very easy to use at a very affordable price. 
